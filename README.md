@@ -1,5 +1,5 @@
 # Backend-ohjelmointi
 
-## Backend-ohjelmoinnin kurssi, HH syksy 2024.
+Backend-ohjelmoinnin kurssi, HH syksy 2024.
 
-## Java, Spring Boot, etc.
+Java, Spring Boot, etc.
